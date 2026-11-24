@@ -1,0 +1,8 @@
+# One-Liner Marathon — local ignores (u-mavis-agent-one-liner-marathon-4fa528c2)
+# Node runtime artefacts for this single-file entry; nothing else is generated here.
+node_modules/
+output/
+*.log
+.DS_Store
+# keep the build dir tidy: kit downloads live next door, not in this repo
+kit.zip
